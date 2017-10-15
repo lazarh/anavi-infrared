@@ -1,0 +1,288 @@
+Info: Reading netlist file "D:\data\git\anavi-infrared\Infra-pHAT.net".
+
+Info: Using references to match components and footprints.
+
+Error: Component 'SENS1' footprint 'Pin_Header_Straight_1x04' was not found in any libraries in the footprint library table.
+
+Error: Component 'SENS2' footprint 'Pin_Header_Straight_1x04' was not found in any libraries in the footprint library table.
+
+Error: Component 'SENS3' footprint 'Pin_Header_Straight_1x04' was not found in any libraries in the footprint library table.
+
+Error: Component 'JP1' footprint 'Pin_Header_Straight_1x02' was not found in any libraries in the footprint library table.
+
+Error: Component 'IRTX1' footprint 'LED-5MM' was not found in any libraries in the footprint library table.
+
+Error: Component 'IRTX2' footprint 'LED-5MM' was not found in any libraries in the footprint library table.
+
+Error: No footprint defined for component 'R8'.
+
+Error: No footprint defined for component 'R9'.
+
+Error: No footprint defined for component 'D1'.
+
+Info: Checking netlist component footprint "C1:/56FB5967:Capacitors_SMD:C_0603_HandSoldering".
+
+Adding new component "C1:/56FB5967" footprint "Capacitors_SMD:C_0603_HandSoldering".
+
+Changing component "C1:/56FB5967" pin "1" net name from "" to "+3V3".
+
+Changing component "C1:/56FB5967" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "C2:/56FCE773:Capacitors_SMD:C_0805_HandSoldering".
+
+Adding new component "C2:/56FCE773" footprint "Capacitors_SMD:C_0805_HandSoldering".
+
+Changing component "C2:/56FCE773" pin "1" net name from "" to "Net-(C2-Pad1)".
+
+Changing component "C2:/56FCE773" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "D1:/59E38C95:".
+
+Error: Cannot add new component "D1:/59E38C95" due to missing footprint "".
+
+Info: Checking netlist component footprint "IRRX1:/56FCDD28:myfootprint:TSOP38X".
+
+Adding new component "IRRX1:/56FCDD28" footprint "myfootprint:TSOP38X".
+
+Changing component "IRRX1:/56FCDD28" pin "1" net name from "" to "Net-(IRRX1-Pad1)".
+
+Changing component "IRRX1:/56FCDD28" pin "2" net name from "" to "GND".
+
+Changing component "IRRX1:/56FCDD28" pin "3" net name from "" to "Net-(C2-Pad1)".
+
+Info: Checking netlist component footprint "IRTX1:/56FCCD5F:LEDs:LED-5MM".
+
+Error: Cannot add new component "IRTX1:/56FCCD5F" due to missing footprint "LEDs:LED-5MM".
+
+Info: Checking netlist component footprint "IRTX2:/5882BE41:LEDs:LED-5MM".
+
+Error: Cannot add new component "IRTX2:/5882BE41" due to missing footprint "LEDs:LED-5MM".
+
+Info: Checking netlist component footprint "J1:/59E39324:myfootprint:KLEMA_1x3".
+
+Adding new component "J1:/59E39324" footprint "myfootprint:KLEMA_1x3".
+
+Changing component "J1:/59E39324" pin "1" net name from "" to "Net-(J1-Pad1)".
+
+Changing component "J1:/59E39324" pin "2" net name from "" to "Net-(J1-Pad2)".
+
+Changing component "J1:/59E39324" pin "3" net name from "" to "Net-(J1-Pad3)".
+
+Info: Checking netlist component footprint "JP1:/570C5478:Pin_Headers:Pin_Header_Straight_1x02".
+
+Error: Cannot add new component "JP1:/570C5478" due to missing footprint "Pin_Headers:Pin_Header_Straight_1x02".
+
+Info: Checking netlist component footprint "P1:/59E3919F:myfootprint:RAS-05-15".
+
+Adding new component "P1:/59E3919F" footprint "myfootprint:RAS-05-15".
+
+Changing component "P1:/59E3919F" pin "1" net name from "" to "Net-(J1-Pad2)".
+
+Changing component "P1:/59E3919F" pin "2" net name from "" to "+5V".
+
+Changing component "P1:/59E3919F" pin "3" net name from "" to "Net-(J1-Pad3)".
+
+Changing component "P1:/59E3919F" pin "4" net name from "" to "Net-(D1-Pad2)".
+
+Changing component "P1:/59E3919F" pin "5" net name from "" to "Net-(J1-Pad1)".
+
+Info: Checking netlist component footprint "Q1:/570BF19F:TO_SOT_Packages_SMD:SOT-23".
+
+Adding new component "Q1:/570BF19F" footprint "TO_SOT_Packages_SMD:SOT-23".
+
+Changing component "Q1:/570BF19F" pin "1" net name from "" to "Net-(Q1-Pad1)".
+
+Changing component "Q1:/570BF19F" pin "2" net name from "" to "GND".
+
+Changing component "Q1:/570BF19F" pin "3" net name from "" to "Net-(IRTX1-Pad1)".
+
+Info: Checking netlist component footprint "Q2:/59E386A1:TO_SOT_Packages_SMD:SOT-23".
+
+Adding new component "Q2:/59E386A1" footprint "TO_SOT_Packages_SMD:SOT-23".
+
+Changing component "Q2:/59E386A1" pin "1" net name from "" to "Net-(Q2-Pad1)".
+
+Changing component "Q2:/59E386A1" pin "2" net name from "" to "GND".
+
+Changing component "Q2:/59E386A1" pin "3" net name from "" to "Net-(D1-Pad2)".
+
+Info: Checking netlist component footprint "R1:/56FB57DD:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "R1:/56FB57DD" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Changing component "R1:/56FB57DD" pin "1" net name from "" to "+3V3".
+
+Changing component "R1:/56FB57DD" pin "2" net name from "" to "Net-(JP1-Pad1)".
+
+Info: Checking netlist component footprint "R2:/56FB589D:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "R2:/56FB589D" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Changing component "R2:/56FB589D" pin "1" net name from "" to "+3V3".
+
+Changing component "R2:/56FB589D" pin "2" net name from "" to "Net-(R2-Pad2)".
+
+Info: Checking netlist component footprint "R3:/56FB5912:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "R3:/56FB5912" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Changing component "R3:/56FB5912" pin "1" net name from "" to "+3V3".
+
+Changing component "R3:/56FB5912" pin "2" net name from "" to "Net-(R3-Pad2)".
+
+Info: Checking netlist component footprint "R4:/570BEF32:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "R4:/570BEF32" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Changing component "R4:/570BEF32" pin "1" net name from "" to "GND".
+
+Changing component "R4:/570BEF32" pin "2" net name from "" to "Net-(Q1-Pad1)".
+
+Info: Checking netlist component footprint "R5:/56FCE3CD:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "R5:/56FCE3CD" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Changing component "R5:/56FCE3CD" pin "1" net name from "" to "+3V3".
+
+Changing component "R5:/56FCE3CD" pin "2" net name from "" to "Net-(C2-Pad1)".
+
+Info: Checking netlist component footprint "R6:/570C0762:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "R6:/570C0762" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Changing component "R6:/570C0762" pin "1" net name from "" to "+3V3".
+
+Changing component "R6:/570C0762" pin "2" net name from "" to "Net-(R6-Pad2)".
+
+Info: Checking netlist component footprint "R7:/570C0BD5:Resistors_SMD:R_0603_HandSoldering".
+
+Adding new component "R7:/570C0BD5" footprint "Resistors_SMD:R_0603_HandSoldering".
+
+Changing component "R7:/570C0BD5" pin "1" net name from "" to "+3V3".
+
+Changing component "R7:/570C0BD5" pin "2" net name from "" to "Net-(R7-Pad2)".
+
+Info: Checking netlist component footprint "R8:/59E38738:".
+
+Error: Cannot add new component "R8:/59E38738" due to missing footprint "".
+
+Info: Checking netlist component footprint "R9:/59E38809:".
+
+Error: Cannot add new component "R9:/59E38809" due to missing footprint "".
+
+Info: Checking netlist component footprint "RASP_CONN1:/56FB7C7A:myfootprint:Pin_Header_Straight_2x20".
+
+Adding new component "RASP_CONN1:/56FB7C7A" footprint "myfootprint:Pin_Header_Straight_2x20".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "1" net name from "" to "+3V3".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "2" net name from "" to "+5V".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "3" net name from "" to "Net-(R6-Pad2)".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "4" net name from "" to "+5V".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "5" net name from "" to "Net-(R7-Pad2)".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "6" net name from "" to "GND".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "7" net name from "" to "Net-(RASP_CONN1-Pad7)".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "8" net name from "" to "/TXD".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "9" net name from "" to "GND".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "10" net name from "" to "/RXD".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "11" net name from "" to "Net-(Q1-Pad1)".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "12" net name from "" to "Net-(IRRX1-Pad1)".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "13" net name from "" to "Net-(RASP_CONN1-Pad13)".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "14" net name from "" to "GND".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "15" net name from "" to "Net-(RASP_CONN1-Pad15)".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "16" net name from "" to "Net-(RASP_CONN1-Pad16)".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "17" net name from "" to "+3V3".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "18" net name from "" to "Net-(RASP_CONN1-Pad18)".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "19" net name from "" to "Net-(RASP_CONN1-Pad19)".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "20" net name from "" to "GND".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "21" net name from "" to "Net-(RASP_CONN1-Pad21)".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "22" net name from "" to "Net-(RASP_CONN1-Pad22)".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "23" net name from "" to "Net-(RASP_CONN1-Pad23)".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "24" net name from "" to "Net-(RASP_CONN1-Pad24)".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "25" net name from "" to "GND".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "26" net name from "" to "Net-(RASP_CONN1-Pad26)".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "27" net name from "" to "Net-(R3-Pad2)".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "28" net name from "" to "Net-(R2-Pad2)".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "29" net name from "" to "Net-(R8-Pad2)".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "30" net name from "" to "GND".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "31" net name from "" to "Net-(RASP_CONN1-Pad31)".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "32" net name from "" to "Net-(RASP_CONN1-Pad32)".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "33" net name from "" to "Net-(RASP_CONN1-Pad33)".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "34" net name from "" to "GND".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "35" net name from "" to "Net-(RASP_CONN1-Pad35)".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "36" net name from "" to "Net-(RASP_CONN1-Pad36)".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "37" net name from "" to "Net-(RASP_CONN1-Pad37)".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "38" net name from "" to "Net-(RASP_CONN1-Pad38)".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "39" net name from "" to "GND".
+
+Changing component "RASP_CONN1:/56FB7C7A" pin "40" net name from "" to "Net-(RASP_CONN1-Pad40)".
+
+Info: Checking netlist component footprint "SENS1:/5704A9C3:Pin_Headers:Pin_Header_Straight_1x04".
+
+Error: Cannot add new component "SENS1:/5704A9C3" due to missing footprint "Pin_Headers:Pin_Header_Straight_1x04".
+
+Info: Checking netlist component footprint "SENS2:/5752A123:Pin_Headers:Pin_Header_Straight_1x04".
+
+Error: Cannot add new component "SENS2:/5752A123" due to missing footprint "Pin_Headers:Pin_Header_Straight_1x04".
+
+Info: Checking netlist component footprint "SENS3:/5752A2F7:Pin_Headers:Pin_Header_Straight_1x04".
+
+Error: Cannot add new component "SENS3:/5752A2F7" due to missing footprint "Pin_Headers:Pin_Header_Straight_1x04".
+
+Info: Checking netlist component footprint "U1:/56FB5761:Housings_DIP:DIP-8_W7.62mm".
+
+Adding new component "U1:/56FB5761" footprint "Housings_DIP:DIP-8_W7.62mm".
+
+Changing component "U1:/56FB5761" pin "1" net name from "" to "GND".
+
+Changing component "U1:/56FB5761" pin "5" net name from "" to "Net-(R3-Pad2)".
+
+Changing component "U1:/56FB5761" pin "2" net name from "" to "GND".
+
+Changing component "U1:/56FB5761" pin "6" net name from "" to "Net-(R2-Pad2)".
+
+Changing component "U1:/56FB5761" pin "3" net name from "" to "GND".
+
+Changing component "U1:/56FB5761" pin "7" net name from "" to "Net-(JP1-Pad1)".
+
+Changing component "U1:/56FB5761" pin "4" net name from "" to "GND".
+
+Changing component "U1:/56FB5761" pin "8" net name from "" to "+3V3".
+
