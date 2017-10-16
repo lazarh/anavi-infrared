@@ -2,11 +2,11 @@
 
   (general
     (links 67)
-    (no_connects 7)
+    (no_connects 8)
     (area 88.500229 88.500228 176.701172 133.5326)
     (thickness 1.6002)
     (drawings 8)
-    (tracks 241)
+    (tracks 238)
     (zones 0)
     (modules 29)
     (nets 41)
@@ -15,7 +15,7 @@
   (page A4)
   (layers
     (0 F.Cu signal)
-    (31 B.Cu signal hide)
+    (31 B.Cu signal)
     (34 B.Paste user)
     (35 F.Paste user)
     (36 B.SilkS user)
@@ -1306,9 +1306,6 @@
   (segment (start 134.4852 111.5752) (end 134.6352 111.7252) (width 0.254) (layer F.Cu) (net 2) (tstamp 59E3AE03))
   (segment (start 143.9672 102.3112) (end 143.9672 102.5652) (width 0.254) (layer F.Cu) (net 2))
   (segment (start 138.8872 104.8512) (end 138.8872 104.3432) (width 0.254) (layer B.Cu) (net 2))
-  (segment (start 138.8872 104.3432) (end 139.6492 103.5812) (width 0.254) (layer B.Cu) (net 2) (tstamp 59E3AD3B))
-  (segment (start 142.6972 103.5812) (end 143.9672 102.3112) (width 0.254) (layer B.Cu) (net 2) (tstamp 59E3AD3F))
-  (segment (start 139.6492 103.5812) (end 142.6972 103.5812) (width 0.254) (layer B.Cu) (net 2) (tstamp 59E3AD3E))
   (segment (start 138.8872 104.8512) (end 138.8872 105.6132) (width 0.254) (layer F.Cu) (net 2))
   (segment (start 131.2672 102.3112) (end 131.2672 102.5652) (width 0.254) (layer F.Cu) (net 2))
   (segment (start 123.6472 102.3112) (end 123.6472 102.5652) (width 0.254) (layer F.Cu) (net 2))
@@ -1983,12 +1980,6 @@
         (xy 139.0142 104.7242) (xy 139.0342 104.7242) (xy 139.0342 104.9782) (xy 139.0142 104.9782) (xy 139.0142 104.9982)
         (xy 138.7602 104.9982) (xy 138.7602 104.9782) (xy 138.7402 104.9782) (xy 138.7402 104.7242) (xy 138.7602 104.7242)
         (xy 138.7602 104.7042) (xy 139.0142 104.7042)
-      )
-    )
-    (filled_polygon
-      (pts
-        (xy 142.760379 103.19969) (xy 143.178361 103.581208) (xy 142.90753 103.762171) (xy 142.6972 104.076952) (xy 142.48687 103.762171)
-        (xy 142.216028 103.5812) (xy 142.48687 103.400229) (xy 142.702864 103.076972)
       )
     )
     (filled_polygon
